@@ -2531,13 +2531,29 @@ Version: BT_StonePeak_D0_REL_50_0002
 File: intel/ibt-hw-37.8.10-fw-22.50.19.14.f.bseq
 Version: BT_StonePeak_D1_REL_63_00001
 File: intel/ibt-17-16-1.sfi
+<<<<<<< HEAD   (f3990c CHROMIUM: Intel BT: Update firmware file for Intel Bluetooth)
 Version: BT_JeffersonPeak_B0_B0_REL0519
+=======
+Version: BT_JeffersonPeak_B0_B0_REL0538
+>>>>>>> CHANGE (dc7776 CHROMIUM: Intel BT: Update firmware file for Intel Bluetooth)
 File: intel/ibt-17-16-1.ddc
+<<<<<<< HEAD   (f3990c CHROMIUM: Intel BT: Update firmware file for Intel Bluetooth)
 Version: BT_JeffersonPeak_B0_B0_REL0519
+=======
+Version: BT_JeffersonPeak_B0_B0_REL0538
+>>>>>>> CHANGE (dc7776 CHROMIUM: Intel BT: Update firmware file for Intel Bluetooth)
 File: intel/ibt-17-2.sfi
+<<<<<<< HEAD   (f3990c CHROMIUM: Intel BT: Update firmware file for Intel Bluetooth)
 Version: BT_JeffersonPeak_B0_B0_REL0519
+=======
+Version: BT_JeffersonPeak_B0_B0_REL0538
+>>>>>>> CHANGE (dc7776 CHROMIUM: Intel BT: Update firmware file for Intel Bluetooth)
 File: intel/ibt-17-2.ddc
+<<<<<<< HEAD   (f3990c CHROMIUM: Intel BT: Update firmware file for Intel Bluetooth)
 Version: BT_JeffersonPeak_B0_B0_REL0519
+=======
+Version: BT_JeffersonPeak_B0_B0_REL0538
+>>>>>>> CHANGE (dc7776 CHROMIUM: Intel BT: Update firmware file for Intel Bluetooth)
 File: intel/ibt-17-0-1.sfi
 Version: BT_JeffersonPeak_A0_B0_REL0201
 File: intel/ibt-17-0-1.ddc
