@@ -2246,6 +2246,7 @@ Driver: rtw89 - Realtek 802.11ax WLAN driver for RTL8852B
 
 File: rtw89/rtw8852b_fw.bin
 File: rtw89/rtw8852b_fw-1.bin
+File: rtw89/rtw8852bt_fw.bin
 
 Licence: Redistributable. See LICENCE.rtlwifi_firmware.txt for details.
 
