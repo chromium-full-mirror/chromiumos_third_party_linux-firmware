@@ -1161,6 +1161,11 @@ Version: 74.f92b5fed.0
 File: iwlwifi-ty-a0-gf-a0-60.ucode
 Version: 60.84d9abea.0
 
+File: iwlwifi-bz-b0-gf-a0.pnvm
+
+File: iwlwifi-bz-b0-gf-a0-92.ucode
+Version: 89.7541f516.0
+
 File: iwlwifi-ty-a0-gf-a0-61.ucode
 Version: 61.8a58813e.0
 
